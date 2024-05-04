@@ -1,0 +1,105 @@
+{
+    "cost": 0.0109,
+    "array": [
+        {
+            "Keyword": "life insurance",
+            "Search Volume": 246000,
+            "CPC": 29.69,
+            "Competition Level": "MEDIUM",
+            "Competition": 0.5,
+            "Low Top of Page Bid": 10.21,
+            "High Top of Page Bid": 31.95,
+            "Keyword Difficulty": 99,
+            "Search Intent": "navigational"
+        },
+        {
+            "Keyword": "whole life insurance",
+            "Search Volume": 74000,
+            "CPC": 24.57,
+            "Competition Level": "MEDIUM",
+            "Competition": 0.49,
+            "Low Top of Page Bid": 7.75,
+            "High Top of Page Bid": 26.06,
+            "Keyword Difficulty": 63,
+            "Search Intent": "commercial"
+        },
+        {
+            "Keyword": "term life insurance",
+            "Search Volume": 74000,
+            "CPC": 32.94,
+            "Competition Level": "MEDIUM",
+            "Competition": 0.44,
+            "Low Top of Page Bid": 10.57,
+            "High Top of Page Bid": 34.58,
+            "Keyword Difficulty": 68,
+            "Search Intent": "navigational"
+        },
+        {
+            "Keyword": "life insurance companies",
+            "Search Volume": 49500,
+            "CPC": 26.05,
+            "Competition Level": "MEDIUM",
+            "Competition": 0.37,
+            "Low Top of Page Bid": 9.5,
+            "High Top of Page Bid": 30.18,
+            "Keyword Difficulty": 72,
+            "Search Intent": "navigational"
+        },
+        {
+            "Keyword": "life insurance quotes",
+            "Search Volume": 40500,
+            "CPC": 47.42,
+            "Competition Level": "MEDIUM",
+            "Competition": 0.4,
+            "Low Top of Page Bid": 17.3,
+            "High Top of Page Bid": 47.44,
+            "Keyword Difficulty": 75,
+            "Search Intent": "commercial"
+        },
+        {
+            "Keyword": "best life insurance",
+            "Search Volume": 18100,
+            "CPC": 24.86,
+            "Competition Level": "MEDIUM",
+            "Competition": 0.48,
+            "Low Top of Page Bid": 9.19,
+            "High Top of Page Bid": 31.74,
+            "Keyword Difficulty": 60,
+            "Search Intent": "commercial"
+        },
+        {
+            "Keyword": "life insurance for seniors",
+            "Search Volume": 14800,
+            "CPC": 23.21,
+            "Competition Level": "MEDIUM",
+            "Competition": 0.51,
+            "Low Top of Page Bid": 7.95,
+            "High Top of Page Bid": 24.75,
+            "Keyword Difficulty": 43,
+            "Search Intent": "commercial"
+        },
+        {
+            "Keyword": "life insurance for kids",
+            "Search Volume": 8100,
+            "CPC": 36.37,
+            "Competition Level": "LOW",
+            "Competition": 0.3,
+            "Low Top of Page Bid": 8.33,
+            "High Top of Page Bid": 40.63,
+            "Keyword Difficulty": 42,
+            "Search Intent": "commercial"
+        },
+        {
+            "Keyword": "life insurance near me",
+            "Search Volume": 3600,
+            "CPC": 25.23,
+            "Competition Level": "LOW",
+            "Competition": 0.16,
+            "Low Top of Page Bid": 10.66,
+            "High Top of Page Bid": 32.47,
+            "Keyword Difficulty": 99,
+            "Search Intent": "navigational"
+        }
+    ],
+    "time": 1.476248025894165
+}

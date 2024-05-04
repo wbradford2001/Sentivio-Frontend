@@ -1,0 +1,42 @@
+:root {
+    --black-text: #353535;
+    --grey-text: #797979;
+    --side-nav-color: #5A57FF;
+    --search-square-background: #C2C0FF;
+
+    --search-square-background: #C2C0FF;
+    --section-border: #CCC;
+    
+
+    --navigational: #00ACB7;
+    --informational: #A7AA00;
+    --commercial: #7CDD00;
+    --transactional: #006A2A;
+
+    --LOW: #007119;
+    --MEDIUM: #97b500;
+    --HIGH: #FF0000;
+  }
+  body {
+    font-family: var(--font-poppins)
+  }
+  
+.info_box_value_text {
+color: var(--black-text);
+font-weight: 700;
+font-size: 24px;
+font-style: normal;
+line-height: normal;
+text-transform: capitalize
+}
+
+.info_box_category_text {
+color: var(--grey-text);
+font-weight: 500;
+font-size: 16px;
+font-style: normal;
+line-height: normal;
+text-transform: capitalize
+}
+  
+  

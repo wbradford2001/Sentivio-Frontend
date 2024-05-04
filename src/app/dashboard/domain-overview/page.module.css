@@ -1,0 +1,12 @@
+/* page.module.css */
+
+.masterDiv {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh; /* Full height of the viewport */
+    font-size: 3em; /* Large text */
+    font-weight: bold; /* Bold text */
+    color: #333; /* Dark grey text for better readability */
+  }
+  

@@ -1,0 +1,659 @@
+{
+    "cost": 0.005,
+    "Geography": [
+        {
+            "geo_id": "AR",
+            "geo_name": "Argentina",
+            "value": 0
+        },
+        {
+            "geo_id": "CL",
+            "geo_name": "Chile",
+            "value": 0
+        },
+        {
+            "geo_id": "JP",
+            "geo_name": "Japan",
+            "value": 0
+        },
+        {
+            "geo_id": "KZ",
+            "geo_name": "Kazakhstan",
+            "value": 0
+        },
+        {
+            "geo_id": "RU",
+            "geo_name": "Russia",
+            "value": 0
+        },
+        {
+            "geo_id": "BO",
+            "geo_name": "Bolivia",
+            "value": 1
+        },
+        {
+            "geo_id": "BR",
+            "geo_name": "Brazil",
+            "value": 1
+        },
+        {
+            "geo_id": "BY",
+            "geo_name": "Belarus",
+            "value": 1
+        },
+        {
+            "geo_id": "CO",
+            "geo_name": "Colombia",
+            "value": 1
+        },
+        {
+            "geo_id": "CZ",
+            "geo_name": "Czechia",
+            "value": 1
+        },
+        {
+            "geo_id": "DO",
+            "geo_name": "Dominican Republic",
+            "value": 1
+        },
+        {
+            "geo_id": "EC",
+            "geo_name": "Ecuador",
+            "value": 1
+        },
+        {
+            "geo_id": "ES",
+            "geo_name": "Spain",
+            "value": 1
+        },
+        {
+            "geo_id": "GT",
+            "geo_name": "Guatemala",
+            "value": 1
+        },
+        {
+            "geo_id": "HN",
+            "geo_name": "Honduras",
+            "value": 1
+        },
+        {
+            "geo_id": "HR",
+            "geo_name": "Croatia",
+            "value": 1
+        },
+        {
+            "geo_id": "KR",
+            "geo_name": "South Korea",
+            "value": 1
+        },
+        {
+            "geo_id": "MN",
+            "geo_name": "Mongolia",
+            "value": 1
+        },
+        {
+            "geo_id": "MX",
+            "geo_name": "Mexico",
+            "value": 1
+        },
+        {
+            "geo_id": "NO",
+            "geo_name": "Norway",
+            "value": 1
+        },
+        {
+            "geo_id": "PA",
+            "geo_name": "Panama",
+            "value": 1
+        },
+        {
+            "geo_id": "PE",
+            "geo_name": "Peru",
+            "value": 1
+        },
+        {
+            "geo_id": "PL",
+            "geo_name": "Poland",
+            "value": 1
+        },
+        {
+            "geo_id": "PR",
+            "geo_name": "Puerto Rico",
+            "value": 1
+        },
+        {
+            "geo_id": "TW",
+            "geo_name": "Taiwan",
+            "value": 1
+        },
+        {
+            "geo_id": "UA",
+            "geo_name": "Ukraine",
+            "value": 1
+        },
+        {
+            "geo_id": "UY",
+            "geo_name": "Uruguay",
+            "value": 1
+        },
+        {
+            "geo_id": "VE",
+            "geo_name": "Venezuela",
+            "value": 1
+        },
+        {
+            "geo_id": "CR",
+            "geo_name": "Costa Rica",
+            "value": 2
+        },
+        {
+            "geo_id": "FR",
+            "geo_name": "France",
+            "value": 2
+        },
+        {
+            "geo_id": "GE",
+            "geo_name": "Georgia",
+            "value": 2
+        },
+        {
+            "geo_id": "HK",
+            "geo_name": "Hong Kong",
+            "value": 2
+        },
+        {
+            "geo_id": "HU",
+            "geo_name": "Hungary",
+            "value": 2
+        },
+        {
+            "geo_id": "IT",
+            "geo_name": "Italy",
+            "value": 2
+        },
+        {
+            "geo_id": "MM",
+            "geo_name": "Myanmar (Burma)",
+            "value": 2
+        },
+        {
+            "geo_id": "PT",
+            "geo_name": "Portugal",
+            "value": 2
+        },
+        {
+            "geo_id": "SK",
+            "geo_name": "Slovakia",
+            "value": 2
+        },
+        {
+            "geo_id": "SV",
+            "geo_name": "El Salvador",
+            "value": 2
+        },
+        {
+            "geo_id": "AM",
+            "geo_name": "Armenia",
+            "value": 3
+        },
+        {
+            "geo_id": "AT",
+            "geo_name": "Austria",
+            "value": 3
+        },
+        {
+            "geo_id": "BA",
+            "geo_name": "Bosnia & Herzegovina",
+            "value": 3
+        },
+        {
+            "geo_id": "BE",
+            "geo_name": "Belgium",
+            "value": 3
+        },
+        {
+            "geo_id": "DE",
+            "geo_name": "Germany",
+            "value": 3
+        },
+        {
+            "geo_id": "DK",
+            "geo_name": "Denmark",
+            "value": 3
+        },
+        {
+            "geo_id": "FI",
+            "geo_name": "Finland",
+            "value": 3
+        },
+        {
+            "geo_id": "GR",
+            "geo_name": "Greece",
+            "value": 3
+        },
+        {
+            "geo_id": "IQ",
+            "geo_name": "Iraq",
+            "value": 3
+        },
+        {
+            "geo_id": "KG",
+            "geo_name": "Kyrgyzstan",
+            "value": 3
+        },
+        {
+            "geo_id": "MD",
+            "geo_name": "Moldova",
+            "value": 3
+        },
+        {
+            "geo_id": "MY",
+            "geo_name": "Malaysia",
+            "value": 3
+        },
+        {
+            "geo_id": "NZ",
+            "geo_name": "New Zealand",
+            "value": 3
+        },
+        {
+            "geo_id": "SE",
+            "geo_name": "Sweden",
+            "value": 3
+        },
+        {
+            "geo_id": "SI",
+            "geo_name": "Slovenia",
+            "value": 3
+        },
+        {
+            "geo_id": "TH",
+            "geo_name": "Thailand",
+            "value": 3
+        },
+        {
+            "geo_id": "TR",
+            "geo_name": "T\u00fcrkiye",
+            "value": 3
+        },
+        {
+            "geo_id": "UZ",
+            "geo_name": "Uzbekistan",
+            "value": 3
+        },
+        {
+            "geo_id": "AO",
+            "geo_name": "Angola",
+            "value": 4
+        },
+        {
+            "geo_id": "AU",
+            "geo_name": "Australia",
+            "value": 4
+        },
+        {
+            "geo_id": "BG",
+            "geo_name": "Bulgaria",
+            "value": 4
+        },
+        {
+            "geo_id": "CA",
+            "geo_name": "Canada",
+            "value": 4
+        },
+        {
+            "geo_id": "CH",
+            "geo_name": "Switzerland",
+            "value": 4
+        },
+        {
+            "geo_id": "CI",
+            "geo_name": "C\u00f4te d\u2019Ivoire",
+            "value": 4
+        },
+        {
+            "geo_id": "EE",
+            "geo_name": "Estonia",
+            "value": 4
+        },
+        {
+            "geo_id": "GB",
+            "geo_name": "United Kingdom",
+            "value": 4
+        },
+        {
+            "geo_id": "IE",
+            "geo_name": "Ireland",
+            "value": 4
+        },
+        {
+            "geo_id": "JO",
+            "geo_name": "Jordan",
+            "value": 4
+        },
+        {
+            "geo_id": "LT",
+            "geo_name": "Lithuania",
+            "value": 4
+        },
+        {
+            "geo_id": "LV",
+            "geo_name": "Latvia",
+            "value": 4
+        },
+        {
+            "geo_id": "PS",
+            "geo_name": "Palestine",
+            "value": 4
+        },
+        {
+            "geo_id": "RO",
+            "geo_name": "Romania",
+            "value": 4
+        },
+        {
+            "geo_id": "RS",
+            "geo_name": "Serbia",
+            "value": 4
+        },
+        {
+            "geo_id": "RW",
+            "geo_name": "Rwanda",
+            "value": 4
+        },
+        {
+            "geo_id": "SG",
+            "geo_name": "Singapore",
+            "value": 4
+        },
+        {
+            "geo_id": "TT",
+            "geo_name": "Trinidad & Tobago",
+            "value": 4
+        },
+        {
+            "geo_id": "AL",
+            "geo_name": "Albania",
+            "value": 5
+        },
+        {
+            "geo_id": "DZ",
+            "geo_name": "Algeria",
+            "value": 5
+        },
+        {
+            "geo_id": "ID",
+            "geo_name": "Indonesia",
+            "value": 5
+        },
+        {
+            "geo_id": "JM",
+            "geo_name": "Jamaica",
+            "value": 5
+        },
+        {
+            "geo_id": "LU",
+            "geo_name": "Luxembourg",
+            "value": 5
+        },
+        {
+            "geo_id": "NL",
+            "geo_name": "Netherlands",
+            "value": 5
+        },
+        {
+            "geo_id": "QA",
+            "geo_name": "Qatar",
+            "value": 5
+        },
+        {
+            "geo_id": "SA",
+            "geo_name": "Saudi Arabia",
+            "value": 5
+        },
+        {
+            "geo_id": "AZ",
+            "geo_name": "Azerbaijan",
+            "value": 6
+        },
+        {
+            "geo_id": "BJ",
+            "geo_name": "Benin",
+            "value": 6
+        },
+        {
+            "geo_id": "OM",
+            "geo_name": "Oman",
+            "value": 6
+        },
+        {
+            "geo_id": "UG",
+            "geo_name": "Uganda",
+            "value": 6
+        },
+        {
+            "geo_id": "US",
+            "geo_name": "United States",
+            "value": 6
+        },
+        {
+            "geo_id": "ET",
+            "geo_name": "Ethiopia",
+            "value": 7
+        },
+        {
+            "geo_id": "KW",
+            "geo_name": "Kuwait",
+            "value": 7
+        },
+        {
+            "geo_id": "LB",
+            "geo_name": "Lebanon",
+            "value": 7
+        },
+        {
+            "geo_id": "MT",
+            "geo_name": "Malta",
+            "value": 7
+        },
+        {
+            "geo_id": "TN",
+            "geo_name": "Tunisia",
+            "value": 7
+        },
+        {
+            "geo_id": "BW",
+            "geo_name": "Botswana",
+            "value": 8
+        },
+        {
+            "geo_id": "IR",
+            "geo_name": "Iran",
+            "value": 8
+        },
+        {
+            "geo_id": "LY",
+            "geo_name": "Libya",
+            "value": 8
+        },
+        {
+            "geo_id": "PH",
+            "geo_name": "Philippines",
+            "value": 8
+        },
+        {
+            "geo_id": "CY",
+            "geo_name": "Cyprus",
+            "value": 9
+        },
+        {
+            "geo_id": "EG",
+            "geo_name": "Egypt",
+            "value": 9
+        },
+        {
+            "geo_id": "SY",
+            "geo_name": "Syria",
+            "value": 9
+        },
+        {
+            "geo_id": "IL",
+            "geo_name": "Israel",
+            "value": 10
+        },
+        {
+            "geo_id": "TZ",
+            "geo_name": "Tanzania",
+            "value": 10
+        },
+        {
+            "geo_id": "CN",
+            "geo_name": "China",
+            "value": 11
+        },
+        {
+            "geo_id": "MG",
+            "geo_name": "Madagascar",
+            "value": 11
+        },
+        {
+            "geo_id": "ZW",
+            "geo_name": "Zimbabwe",
+            "value": 11
+        },
+        {
+            "geo_id": "BH",
+            "geo_name": "Bahrain",
+            "value": 12
+        },
+        {
+            "geo_id": "MU",
+            "geo_name": "Mauritius",
+            "value": 12
+        },
+        {
+            "geo_id": "ZA",
+            "geo_name": "South Africa",
+            "value": 12
+        },
+        {
+            "geo_id": "AF",
+            "geo_name": "Afghanistan",
+            "value": 14
+        },
+        {
+            "geo_id": "AE",
+            "geo_name": "United Arab Emirates",
+            "value": 15
+        },
+        {
+            "geo_id": "MA",
+            "geo_name": "Morocco",
+            "value": 15
+        },
+        {
+            "geo_id": "NA",
+            "geo_name": "Namibia",
+            "value": 15
+        },
+        {
+            "geo_id": "ME",
+            "geo_name": "Montenegro",
+            "value": 16
+        },
+        {
+            "geo_id": "GH",
+            "geo_name": "Ghana",
+            "value": 18
+        },
+        {
+            "geo_id": "KE",
+            "geo_name": "Kenya",
+            "value": 18
+        },
+        {
+            "geo_id": "MK",
+            "geo_name": "North Macedonia",
+            "value": 19
+        },
+        {
+            "geo_id": "CM",
+            "geo_name": "Cameroon",
+            "value": 20
+        },
+        {
+            "geo_id": "KH",
+            "geo_name": "Cambodia",
+            "value": 20
+        },
+        {
+            "geo_id": "NP",
+            "geo_name": "Nepal",
+            "value": 20
+        },
+        {
+            "geo_id": "IN",
+            "geo_name": "India",
+            "value": 22
+        },
+        {
+            "geo_id": "LK",
+            "geo_name": "Sri Lanka",
+            "value": 25
+        },
+        {
+            "geo_id": "ZM",
+            "geo_name": "Zambia",
+            "value": 28
+        },
+        {
+            "geo_id": "NG",
+            "geo_name": "Nigeria",
+            "value": 33
+        },
+        {
+            "geo_id": "VN",
+            "geo_name": "Vietnam",
+            "value": 59
+        },
+        {
+            "geo_id": "BD",
+            "geo_name": "Bangladesh",
+            "value": 67
+        },
+        {
+            "geo_id": "VU",
+            "geo_name": "Vanuatu",
+            "value": 80
+        },
+        {
+            "geo_id": "SO",
+            "geo_name": "Somalia",
+            "value": 83
+        },
+        {
+            "geo_id": "PK",
+            "geo_name": "Pakistan",
+            "value": 92
+        },
+        {
+            "geo_id": "FO",
+            "geo_name": "Faroe Islands",
+            "value": 100
+        }
+    ],
+    "Demography": {
+        "Age": {
+            "18-24": 16,
+            "25-34": 84,
+            "35-44": 100,
+            "45-54": 35,
+            "55-64": 13
+        },
+        "Gender": {
+            "female": 100,
+            "male": 79
+        }
+    },
+    "time": 3.4147629737854004
+}

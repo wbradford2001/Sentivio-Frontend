@@ -1,0 +1,145 @@
+/* Main sidebar styling */
+.sidebar {
+    width: 280px;
+    background-color: var(--side-nav-color);
+    border-radius: 0px 48px 48px 0px;
+    height: 100vh;
+    box-sizing: border-box;
+    position: fixed;
+    overflow-y: auto;
+    display: flex;
+    flex-flow: column;
+    overflow: hidden;
+    transition: width 0.3s ease-in-out;
+    z-index: 1000;
+}
+
+/* Adjustments for smaller screens */
+@media (max-width: 1024px) {
+    .sidebar {
+        border-radius: 0px;
+    }
+}
+
+.hideMenuIcon {
+    margin-top: 24px;
+    align-self: flex-end;
+    margin-right: 24px;
+}
+
+/* Top navigation bar styling */
+.topNav {
+    position: sticky;
+    top: 0;
+    height: 80px;
+    border: 1px solid #D0D0D0;
+    background-color: #fff;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    z-index: 1;
+    width: 100%;
+}
+
+.hamburgerContainer {
+    z-index: 10000000;
+}
+
+.hamburger {
+    margin: 24px;
+}
+
+.profileIconContainer {
+    margin: 24px;
+    display: flex;
+    align-items: center;
+}
+
+.panda {
+    margin: 8px;
+}
+
+.JohnSmith {
+    font-weight: 600;
+}
+
+.Email {
+    font-weight: 300;
+    text-transform: lowercase;
+}
+
+.mainContent {
+    margin-left: 280px;
+    box-sizing: border-box;
+    overflow:auto;
+    transition: margin-left 0.3s ease-in-out;
+    
+    
+}
+
+
+@media (max-width: 1024px) {
+    .mainContent {
+        margin-left: 0;
+    }
+}
+
+.logo_container {
+    font-size: 20px;
+    display: flex;
+    flex-flow: column;
+    align-items: center;
+    padding: 16px;
+    margin: 16px;
+    font-family: var(--font-poppins);
+    font-weight: 700;
+    line-height: normal;
+    text-transform: uppercase;
+    color: #FFF;
+    transition: opacity 0.3s ease-in-out;
+}
+
+.navbar_container {
+    display: flex;
+    flex-flow: column;
+    overflow: hidden;
+    flex-grow: 1;
+}
+
+.subNavContainer {
+    margin-top: auto;
+}
+
+.navItem {
+    color: #C2C0FF;
+    height: 72px;
+    width: 280px;
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+    text-align: left;
+}
+
+.linkText {
+    color: #C2C0FF;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 500;
+    text-transform: uppercase;
+    text-decoration: none;
+}
+
+.navItem:hover {
+    background-color: #00ACB7;
+    cursor: pointer;
+}
+
+.selectedNavItem {
+    color: #FFF;
+}
+
+.navIcon {
+    fill: green;
+    padding-left: 42px;
+    padding-right: 16px;
+}
